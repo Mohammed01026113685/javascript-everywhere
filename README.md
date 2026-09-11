@@ -19,3 +19,4 @@ This repository contains my 26-week JavaScript learning journey.
 | Session | Topic |
 |---|---|
 | Day 01 | Development Environment & JavaScript Fundamentals |
+| Day 02 | JavaScript Fundamentals — Types, Conditionals and Loops |
