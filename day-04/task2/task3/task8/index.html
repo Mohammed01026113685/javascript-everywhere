@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Dashboard</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Student Dashboard</h1>
+
+    <section>
+        <h2>Add Student</h2>
+
+        <input id="nameInput" type="text" placeholder="Name">
+
+        <input id="scoreInput" type="number" placeholder="Score">
+
+        <input id="cityInput" type="text" placeholder="City (optional)">
+
+        <button id="addButton">Add</button>
+        <button id="clearButton">Clear</button>
+    </section>
+
+    <section>
+        <h2>Server</h2>
+
+        <button id="loadButton">Load from server</button>
+        <p id="errorMessage"></p>
+    </section>
+
+    <section>
+        <h2>Freeze vs Chunked</h2>
+
+        <button id="freezeButton">Freeze</button>
+        <button id="chunkedButton">Chunked</button>
+        <p id="progress"></p>
+    </section>
+
+    <section>
+        <h2>Students</h2>
+
+        <div id="summary"></div>
+
+        <ul id="studentList"></ul>
+    </section>
+
+    <script src="app.js"></script>
+</body>
+</html>
