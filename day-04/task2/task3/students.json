@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "name": "Sara",
+    "score": 95,
+    "attendance": 92,
+    "address": {
+      "city": "Qena"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Omar",
+    "score": 85,
+    "attendance": 88,
+    "address": {
+      "city": "Cairo"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Lina",
+    "score": 76,
+    "attendance": 91
+  },
+  {
+    "id": 4,
+    "name": "Ahmed",
+    "score": 65,
+    "attendance": 75,
+    "address": {
+      "city": "Luxor"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Mona",
+    "score": 58,
+    "attendance": 68,
+    "address": {
+      "city": "Qena"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Youssef",
+    "score": 91,
+    "address": {
+      "city": "Aswan"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Nour",
+    "score": 82,
+    "attendance": 94,
+    "address": {
+      "city": "Qena"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Hassan",
+    "score": 72,
+    "attendance": 79
+  },
+  {
+    "id": 9,
+    "name": "Mai",
+    "score": 88,
+    "attendance": 86,
+    "address": {
+      "city": "Cairo"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Khaled",
+    "score": 45,
+    "attendance": 62,
+    "address": {
+      "city": "Luxor"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Salma",
+    "score": 67,
+    "attendance": 81,
+    "address": {
+      "city": "Qena"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Adam",
+    "score": 105,
+    "attendance": 90,
+    "address": {
+      "city": "Aswan"
+    }
+  }
+]
