@@ -16,11 +16,12 @@ This repository contains my 26-week JavaScript learning journey.
 
 ## Table of Contents
 
-| Session | Topic                                                   |
+| Session | Topic |
 | ------- | ------------------------------------------------------- |
-| Day 01  | Development Environment & JavaScript Fundamentals       |
-| Day 02  | JavaScript Fundamentals — Types, Conditionals and Loops |
-| Day 03  | Functions, Scope, Closures & Browser JavaScript         |
+| Day 01 | Development Environment & JavaScript Fundamentals |
+| Day 02 | JavaScript Fundamentals — Types, Conditionals and Loops |
+| Day 03 | Functions, Scope, Closures & Browser JavaScript |
+| Day 04 | Destructuring, Spread, Timers, Callbacks & Async JavaScript |
 
 ## Repository Structure
 
@@ -29,27 +30,21 @@ javascript-everywhere/
 ├── README.md
 ├── day-01/
 ├── day-02/
-└── day-03/
+├── day-03/
+└── day-04/
     ├── NOTES.md
     ├── predictions.md
     ├── predictions.js
-    ├── basics.js
-    ├── scope.js
-    ├── closures.js
+    ├── destructuring.js
+    ├── spread.js
+    ├── messy.js
+    ├── timers.js
+    ├── callbacks.js
+    ├── fake-db.js
+    ├── hell.js
+    ├── flat.js
     ├── grade-lib.js
+    ├── students.json
     ├── report.js
     ├── index.html
     └── app.js
-```
-
-## Progress
-
-* [x] Day 01 — Development Environment & JavaScript Fundamentals
-* [x] Day 02 — Types, Conditionals and Loops
-* [x] Day 03 — Functions, Scope, Closures & Browser JavaScript
-
-More sessions will be added as the journey continues.
-
-## Goal
-
-Build strong JavaScript fundamentals and progress toward becoming a professional Front-End / React Developer.
